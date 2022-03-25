@@ -1,0 +1,14 @@
+Good Questions:
+https://codeforces.com/problemset/problem/1517/B
+https://codeforces.com/problemset/problem/1498/B //multiset upper & lower bound
+https://www.codechef.com/LTIME91B/problems/HRSCPMTR/
+https://codeforces.com/problemset/problem/1519/C
+https://www.codechef.com/START5B/problems/CHEFQUER --- FENWICK TREE
+https://codeforces.com/contest/1610/problem/B
+https://codeforces.com/contest/1620/problem/C
+https://www.codechef.com/problems/MEANIDIAN -- Binary Search
+https://codeforces.com/contest/1615/problem/B --- Bitwise Hashing
+https://codeforces.com/problemset/problem/1330/B
+https://www.codechef.com/START22B/problems/MERGEBS ---- DP
+https://codeforces.com/problemset/problem/550/B
+https://codeforces.com/contest/1651/problem/C
